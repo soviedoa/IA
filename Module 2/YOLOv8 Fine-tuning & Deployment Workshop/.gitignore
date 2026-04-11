@@ -1,0 +1,10 @@
+# Entornos virtuales
+.venv/
+__pycache__/
+
+# Carpetas pesadas de datos y entrenamiento
+datasets/
+runs/
+
+# Modelo base (pesado y no es el resultado final)
+yolov8n.pt
